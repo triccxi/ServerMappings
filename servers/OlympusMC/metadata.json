@@ -1,1 +1,48 @@
-
+{
+    "id": "olympusmc",
+    "name": "OlympusMC",
+    "website": "https://olympusmc.lat/",
+    "store": "https://tienda.olympusmc.lat/",
+    "wiki": "https://wiki.olympusmc.lat/",
+    "description": "¡El mejor servidor Hispanohablante de Minecraft!",
+    "addresses": [
+        "play.olympusmc.lat",
+        "play.olympusmc.us"
+    ],
+    "primaryAddress": "play.olympusmc.lat",
+    "primaryColor": "#FFCF00",
+    "secondaryColor": "#FFE300",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.*"
+    ],
+    "primaryMinecraftVersion": "1.21.*",
+    "crossplay": false,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "es",
+    "languages": [
+        "es"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Gens",
+        "SkyPvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/uPbuuVUy9H",
+    },  
+    "tebexStore": {
+        "background": {
+            "lowerColor": "#16120C",
+            "upperColor": "#282320"
+        }
+    }
+}
